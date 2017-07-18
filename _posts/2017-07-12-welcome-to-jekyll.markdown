@@ -1,17 +1,19 @@
 ---
-layout: post
+layout: post****
 title:  "Jekyll与GitHub page 搭建个人bolg"
 date:   2017-07-12 15:13:08 +0800
 categories: 配置
 ---
 
-电脑环境：macOS 
-配置工具：terminal， git
+**电脑环境：macOS **
+**配置工具：terminal， git
+**
+# 一、GitHub上创建文件 
+**命名为 `username.github.io`  （ps: username和你的github名字一定要一样，不然404你找一周都找不到问题哦） 
+`eg:   SummerOO.github.io`
 
-一、GitHub上新建文件 
-命名为 `username.github.io`  （ps: username 和你的github名字一定要一样，不然404你找一周都找不到问题哦） 
 
-![Github添加项目]/Users/xiuxiu/Desktop/屏幕快照\ 2017-07-18\ 11.35.39.png 
+
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
@@ -30,3 +32,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
