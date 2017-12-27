@@ -14,7 +14,7 @@ categories: 配置
 
 `eg: SummerOO.github.io`
 
-![新建工程页面](/Users/xiuxiu/Documents/SummerOO/SummerOO.github.io/SummerOO.github.io/newRepository.png)
+![](/pic/newRepository.png)
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
